@@ -1,0 +1,31 @@
+raw_customer_name,raw_customer_email,raw_customer_phone,raw_order_date,raw_order_status,raw_total_amount,raw_currency,ingestion_source,batch_id
+John Doe,john.doe@gmail.com,+254711222333,2026-01-19,completed,1500.50,KES,api_v1,20260119
+Jane Smith,jane.s@provider.net,0722111222,2026-01-18,pending,45.00,USD,api_v1,20260119
+,,+254700111222,2026-01-19,completed,3200,KES,api_v1,20260119
+Alice Wanjiku,alice@work.co.ke,0722000111,Not_A_Date,shipped,120.00,GBP,manual_upload,20260119
+Bob Berger,bob@test.com,555-0199,2025-13-45,processing,99.99,EUR,api_v1,20260119
+Charlie Check,charlie@null.com,0111222333,2026-01-15,🤔 ERROR,FREE,KES,legacy_system,20260119
+David Doe,d.doe@mail.com,0733444555,2026/02/01,cancelled,ten-dollars,USD,api_v1,20260119
+,,,,,NULL,,unknown,999999
+Eve Error,eve@fails.com,123,2026-01-10,WAITING_FOR_PAYMENT,5000.00,KES,api_v1,20260119
+Frank Fast,frank@fast.com,0788999000,2026-01-20,super_fast,12.50,EUR,api_v1,20260119
+Grace G.,grace@shop.com,,2026-01-05,refunded, -50.00,KES,api_v1,20260119
+,,0711111111,2026-01-01,completed,100.00,KES,api_v1,20260119
+Henry Hills,henry@hills.me,+254722333444,2026-01-19,completed,890.00,KES,api_v1,20260119
+Ivy Itimu,ivy.itimu@cloud.com,0700123456,2026-01-18,completed,2500.00,KES,api_v1,20260119
+Jack Jones,jack@j.com,0711222333,2026-01-17,pending,15.00,USD,api_v1,20260119
+Kevin Kamau,k.kamau@biz.ke,0722444555,2026-01-19,completed,12500.75,KES,api_v1,20260119
+Laura Lee,laura@domain.com,0733555666,2026-01-19,completed,300.00,EUR,api_v1,20260119
+Mona Musa,mona@musa.com,0799888777,2026-01-19,completed,4500.00,KES,api_v1,20260119
+Nick Njuguna,njuguna@tech.ke,0722666777,2026-01-19,completed,75.00,USD,api_v1,20260119
+Omar Omondi,omar@omondi.co.ke,0711777888,2026-01-19,completed,2200.00,KES,api_v1,20260119
+Penny P.,penny@shop.ke,,NULL,pending,zero,KES,api_v1,20260119
+Quincy Q.,q@q.com,1,2026-01-19,failed,0.00,KES,api_v1,20260119
+Rose R.,rose@flower.com,0722123123,yesterday,completed,140.00,KES,manual_upload,20260119
+Steve S.,steve@s.com,0711000000,2026-01-19,returned,NaN,KES,api_v1,20260119
+Tom T.,tom@t.com,0733111111,2026-01-19,completed,1200.00,KES,api_v1,20260119
+Underwood,u@u.com,0744222222,2024-05-20,completed,99.00,USD,archive,20260119
+Victor V.,v@v.com,0755333333,2026-01-19,completed,50.00,EUR,api_v1,20260119
+,,,,,missing,KES,unknown,20260119
+Xavier X.,x@x.com,0766444444,2026-01-19,completed,10.00,USD,api_v1,20260119
+Yvonne Y.,y@y.com,0777555555,2026-01-19,completed,20.00,KES,api_v1,20260119
